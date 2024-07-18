@@ -1,2 +1,2 @@
 # Fortran
-Uso do Fortran para solução problemas numéricos das áreas térmica e estutural
+Uso do Fortran para solução problema térmico
